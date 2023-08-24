@@ -1,0 +1,2 @@
+- conda install pandas openpyxl xlrd matplotlib seaborn scikit-learn statsmodels pyarrow nodejs ipywidgets tqdm jupyterlab
+- conda install -c conda-forge polars
